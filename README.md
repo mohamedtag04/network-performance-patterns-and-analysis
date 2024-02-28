@@ -37,13 +37,11 @@ The key steps involved:
 
 ## Data Access
 
-The dataset is publicly available on Kaggle: [https://www.kaggle.com/datasets/mohamedwasef/egypt-jobs-dataset](https://www.kaggle.com/datasets/mohamedwasef/egypt-jobs-dataset)
-
-## Code and Analysis
+The dataset is publicly available on Kaggle: [https://www.kaggle.com/datasets/mohamedtag04/egypt-network-performance-data-q4-2023](https://www.kaggle.com/datasets/mohamedtag04/egypt-network-performance-data-q4-2023)
 
 This repository includes:
 
-* **Jupyter notebook:** Documents the data processing and analysis steps [https://www.kaggle.com/datasets/mohamedwasef/egypt-jobs-dataset](https://www.kaggle.com/datasets/mohamedwasef/egypt-jobs-dataset)
+* **Jupyter notebook:** Documents the data processing and analysis steps
 * **Heatmap:** Visualizes the initial findings on internet speed distribution.
 * **Code:** Scripts used for data processing and analysis.
 
